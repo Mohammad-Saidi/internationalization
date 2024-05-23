@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2024-05-23T18:51:33.896756",
+  "title": "Hello World",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders": {}
+  }
+}
